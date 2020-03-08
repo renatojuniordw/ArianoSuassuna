@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+.da-slideer {
+    width: 100%;
+    min-width: 320px;
+    height: 520px;
+    position: relative;
+    margin:0 auto;
+    overflow: hidden;
+    background: transparent url(../images/2.jpg) repeat-x 0% center; /* Replace with your background image*/
+    background-size:auto 100%;
+    -webkit-transition: background-position 1s ease-out 0.3s;
+    -moz-transition: background-position 1s ease-out 0.3s;
+    -o-transition: background-position 1s ease-out 0.3s;
+    -ms-transition: background-position 1s ease-out 0.3s;
+    transition: background-position 1s ease-out 0.3s;
+}
+

@@ -1,0 +1,62 @@
+body {
+    font-family: EngraversGothic BT;
+	src:url(../fonts/Engravers%27%20Gothic%20BT.ttf)
+}
+
+h1 {
+    text-align: center;
+}
+
+#title {
+    text-decoration: underline;
+}
+
+#quiz {
+    text-indent: 10px;
+    display:none;
+}
+
+.button {
+    
+   
+   
+    position: relative;
+    float:right;
+  
+}
+
+
+
+button {
+    position: relative;
+    float:right;
+}
+
+
+
+#containeer {
+    width:50%;
+	margin:auto;
+    padding: 0 25px 40px 10px;
+    background-color: #3CB371;
+    border:15px solid #BDB76B;
+    border-radius:10px;
+    color: #000;
+    font-weight: Century Gothic;
+    box-shadow: 5px 5px 5px #888;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#prev {
+    display:none;
+}
+
+#start {
+    display:none;
+    width: 90px;
+}
